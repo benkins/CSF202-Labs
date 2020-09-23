@@ -5,7 +5,6 @@ public class Person {
 
     public Person(String name) {
         this.name = name;
-        System.out.println("Person created");
     }
 
     public String getName() {
