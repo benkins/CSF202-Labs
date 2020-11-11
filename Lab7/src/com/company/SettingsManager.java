@@ -6,7 +6,6 @@ public class SettingsManager {
     private static SettingsManager settingsManager = new SettingsManager();
 
     private SettingsManager(){
-
     }
 
     public static SettingsManager getInstance(){
